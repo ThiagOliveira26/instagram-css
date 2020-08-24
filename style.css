@@ -99,8 +99,6 @@ body{
     height: 40px;
 }
 
-
-
 @media(max-width:650px){
     .phone-image{
         display: none;
